@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-* ⚙️ Programming Lead (FRC 7034)
+* ⚙️ Programming Lead ([FRC 7034](https://github.com/2BDetermined-7034))
 * ⚡ Absolutely love low level programming
 * 🛡️ Big interest in cybersecurity! (CTFs, puzzles, bug bounties)
 * \>>= Functional bro for life!
@@ -13,6 +13,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=neovim,emacs,arch,c,cpp,cmake,bash,haskell,latex,java,gradle,idea,go,zig,rust,wasm,discord,py,lua,)](https://skillicons.dev)
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lqnk4)](https://github.com/anuraghazra/github-readme-stats)
 
 Check out [Teradox](https://github.com/mopo3ob-jack/Teradox)!
 
