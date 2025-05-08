@@ -1,16 +1,23 @@
-##  🌈 🌐 Hi, I'm Aaryan Ilanchelian, I'm a robotics software engineer and aspiring physicist!
----
-### 🔭 I've worked on applications like control theory, autonomous systems, and _AI_...
----
+# Aaryan Ilanchelian - Math/Physics Major
+Not even a software engineer smh
 
-## About Me
+# About Me (good opinions)
 * ⚙️ Programming Lead ([FRC 7034](https://github.com/2BDetermined-7034))
-* ⚡ Absolutely love low level programming
-* 🛡️ Big interest in cybersecurity! (CTFs, puzzles, bug bounties)
-* \>>= Functional bro for life!
+* ⚡ Low level is based
+* Strong typing is based (yes python counts)
+* ∑ Proof assistants are based (the borrow checker doesn't count!)
+* 🛡️Cybersecurity hackerman! (CTFs, puzzles, bug bounties)
+* \>>= Functional programming is the new vibe coding
+* 🔄 Rotors > quaternions > Euler Angles
+* ☀️ Light themes are good for your eyes
+* 🐧 I use arch/neovim btw
 
+# Here's some cool robot stuff
+[![2025 Competition Robot 'Krill'](./img/Krill.jpg)](https://www.youtube.com/watch?v=bCcp4JmH3J8)
 
+I studied control theory for 4 years for this
 
+---
 [![My Skills](https://skillicons.dev/icons?i=neovim,emacs,arch,c,cpp,cmake,bash,haskell,latex,java,gradle,idea,go,zig,rust,wasm,discord,py,lua,)](https://skillicons.dev)
 ---
 
