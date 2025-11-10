@@ -1,21 +1,18 @@
-# Aaryan Ilanchelian - Math/Physics Major
-Not even a software engineer smh
+# Aaryan Ilanchelian - Math/Physics Major at OSU
 
-# About Me (good opinions)
-* ⚙️ Programming Lead ([FRC 7034](https://github.com/2BDetermined-7034))
-* ⚡ Low level is based
-* Strong typing is based (yes python counts)
-* ∑ Proof assistants are based (the borrow checker doesn't count!)
-* 🛡️Cybersecurity hackerman! (CTFs, puzzles, bug bounties)
-* \>>= Functional programming is the new vibe coding
+## About Me
+* ⚡Low level programmer
+* \>>= Functional programmer
+* Strong typing
+* ∑ Proof Assistants (Lean4, Agda)
+* 🛡️Cybersecurity (CTFs, Bug Bounties)
 * 🔄 Rotors > quaternions > Euler Angles
-* ☀️ Light themes are good for your eyes
-* 🐧 I use arch/neovim btw
+* ☀️ Light themes are better
 
-# Here's some cool robot stuff
+## High school robotics
 [![2025 Competition Robot 'Krill'](./img/Krill.jpg)](https://www.youtube.com/watch?v=bCcp4JmH3J8)
 
-I studied control theory for 4 years for this
+Former Programming lead for [FRC 7034](https://wlhsfrc.com/). Learned / taught control theory and computer vision. Click the image for a video!
 
 ---
 [![My Skills](https://skillicons.dev/icons?i=neovim,emacs,arch,c,cpp,cmake,bash,haskell,latex,java,gradle,idea,go,zig,rust,wasm,discord,py,lua,)](https://skillicons.dev)
